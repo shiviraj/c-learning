@@ -1,0 +1,30 @@
+Write a program that allows the user to repeatedly
+enter numbers. Consider that the user has entered
+all the numbers when he/she enters -99
+After the user has entered all numbers, the user should 
+be allowed to repeatedly look for numbers among the numbers entered.
+The program halts when the user enters -99 at this point.
+Ex:
+Please enter a number: 
+23
+Please enter a number: 
+3
+Please enter a number: 
+70
+Please enter a number: 
+5
+Please enter a number: 
+2
+Please enter a number: 
+-99
+What number would you like to search for?
+23
+23 is present in the list at position 0
+What number would you like to search for?
+27
+27 is not present in the list
+What number would you like to search for?
+5
+5 is present in the list at position 3
+What number would you like to search for?
+-99
